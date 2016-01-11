@@ -1,0 +1,192 @@
+{
+  "basics": {
+    "name": "T. Scott Barnes",
+    "label": "Software Architect",
+    "picture": "",
+    "email": "scott@awesomebarnes.com",
+    "phone": "(804) 223-0363",
+    "website": "https://awesomebarnes.com/",
+    "summary": "I've been working with open source software since around 1995, when I first installed Slackware on my computer after getting tired of the constant issues Windows 95 would have.  Having used Solaris at a friend's house (his father used it for work), I decided to look for a Unix-like I could run.  I stumbled across Slackware, and have used Linux as my primary operating system ever since.  I still try out other OSes, it's a hobby of mine.\n\nAfter using Slackware for about a week I decided I wanted to contribute something back, and started learning all I could about programming and package management solutions.  Having had experience with C in school (which I later learned was unusual, as most schools jump from BASIC to C++), I started coding an improved yet backward-compatible package manager for Slackware.  It never made it in to Slackware officially, but it was a good start.\nI've loved programming since playing with LOGO and QBASIC as a kid, and open source work meant I could use it for something that would actually help people.  So I've tried to contribute back to most of the open source projects I use, as well as creating open source projects of my own.\nI have created and still maintain a number of semi-widely used open source projects; including applications like indicator-keylock (which is now included in Ubuntu Linux) and backend web packages like django-bootstrap-themes (used internally by Facebook, among others).",
+    "location": {
+      "address": "7218 John Taylor Mews",
+      "postalCode": "22546",
+      "city": "Ruther Glen",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "tsbarnes",
+        "url": "http://www.linkedin.com/in/tsbarnes"
+      },
+      {
+        "network": "Facebook",
+        "username": "TScottBarnes",
+        "url": "http://www.facebook.com/TScottBarnes"
+      },
+      {
+        "network": "GitHub",
+        "username": "tsbarnes",
+        "url": "https://github.com/tsbarnes"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Awesome Barnes, LLC",
+      "position": "Owner / Software Architect",
+      "website": "https://awesomebarnes.com/",
+      "startDate": "2013-04-08",
+      "summary": "Doing freelance software engineering projects, especially web development and browser extension development, managing business resources, software project management.",
+      "highlights": [
+        "Co-founded the company with my wife, Jennifer",
+        "Became one of the top Google Chrome extension developers on Elance",
+        "Developing Google Chrome Native Client applications in C++",
+        "Creating modular, scalable backend code for e-commerce sites and web apps using Django, Ruby on Rails, and Zend Framework 2",
+        "Building fast, responsive, elegant frontend web app code using AngularJS, Bootstrap, Foundation, and Angular-Material"
+      ]
+    },
+    {
+      "company": "Modern Ui",
+      "position": "Owner / Software Architect",
+      "website": "http://modernui.com/",
+      "startDate": "2014-01-15",
+      "endDate": "2016-01-01",
+      "summary": "Backend web development and server administration, utilizing PHP, MySQL, and Apache running on Ubuntu Linux.",
+      "highlights": [
+        "Development of database and backend technologies for a massive music licensing web store",
+        "Refactored and improved a legacy codebase, for performance and better adherence to standards"
+      ]
+    },
+    {
+      "position": "President / Owner",
+      "company": "No Dice, LLC",
+      "startDate": "2012-10-06",
+      "endDate": "2014-10-23",
+      "summary": "Developed No-Dice.Net, a platform for roleplaying gamers (not yet completed).",
+      "highlights": [
+        "Co-founded the company and lead development",
+        "Designed and coded Django HTML templates, LESS/CSS, and JavaScript",
+        "Created the backend code in Python using Django",
+        "Developed RESTful APIs for the site using Django REST Framework",
+        "Maintained the company blog, llc.no-dice.net, as well as much of the company&#39;s social media presence"
+      ]
+    },
+    {
+      "position": "Chief Technology Officer",
+      "company": "Archimedes Lever",
+      "startDate": "2011-12-15",
+      "endDate": "2012-10-26",
+      "summary": "Maintained the company's server and social media presence",
+      "highlights": [
+        "Performed administration and maintenance of the server for ubookt.com",
+        "Maintained the company's social media presence",
+        "Selected and implemented technical decisions for the server",
+        "Assisted in development of the site design and code for ubookt.com using Django"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [{
+    "institution": "Germanna Community College",
+    "area": "Information Technology",
+    "studyType": "Other",
+    "startDate": "2001-09-14",
+    "endDate": "2014-12-14",
+    "courses": [
+      "C++ Programming",
+      "Java Programming",
+      "Unix Systems",
+      "Network Security and Firewalls",
+      "Database Administration I",
+      "web Design I",
+      "Web Design II"
+    ]
+  }],
+  "skills": [
+    {
+      "name": "Frontend Web Development",
+      "level": "Master",
+      "keywords": [
+        "AngularJS",
+        "Bootstrap",
+        "Foundation",
+        "LESS",
+        "Sass/SCSS",
+        "CoffeeScript",
+        "HAML",
+        "HTML 5",
+        "CSS 3",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Backend Web Development",
+      "level": "Master",
+      "keywords": [
+        "Django",
+        "Ruby on Rails",
+        "Zend Framework 2",
+        "Python",
+        "Ruby",
+        "Node.js",
+        "PHP",
+        "Java"
+      ]
+    },
+    {
+      "name": "Linux Application Development",
+      "level": "Master",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "GTK+",
+        "GNOME",
+        "Qt",
+        "Ubuntu",
+        "Client/Server Architecture",
+        "Threading",
+        "RPC",
+        "Library/API Development",
+        "Debian/Ubuntu Packages"
+      ]
+    }
+  ],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Ubuntu",
+        "Linux",
+        "Android",
+        "Android Wear",
+        "Chrome OS",
+        "SteamOS",
+        "Raspberry Pi",
+        "ARM",
+        "IoT",
+        "Home Automation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Patrick Wilson",
+      "reference": "Scott (Timothy) is an all-star developer. I hired Scott to help me get a startup product out of dev, and into the hands of customers. He jumped in feet first and turned our ideas into reality. He is proactive with his architectural design and has been consistently delivering high quality code and solutions to our live servers. I will continue to hire Scott for our projects, because I know that I can count on him to solve the problems, improve the outcome and deliver the product. Scott \"gets it\". And that's important when you're trying to explain complex plans and ideas. Once he \"gets it\"... he's on the run turning your plans and ideas into reality. I'm truly impressed, daily. Scott is going to have a stellar career, I'm happy to be a part of it. Great job Scott, I can't say that enough."
+    },
+    {
+      "name": "Jenny Barnes",
+      "reference": "Scott is one of the finest programmers, and technical project managers, I have ever known. He effortlessly breaks down complex issues into manageable chunks, and is an expert at making sure we take advantage of open source technologies available to us. He's also great at leading projects involving re-engineering/sanitizing an existing codebase."
+    },
+    {
+      "name": "Steven LePire",
+      "reference": "Scott is very adept at programming, and his facility with C is quite impressive. He is very creative and intelligent, and excellent at out-of-the-box thinking. In addition to having taught Scott both basic Java programming and mathematics, I have contracted him for several projects over the past several years. In this professional capacity, he has never disappointed me."
+    }
+  ]
+}
