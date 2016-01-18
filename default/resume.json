@@ -29,6 +29,11 @@
         "network": "GitHub",
         "username": "tsbarnes",
         "url": "https://github.com/tsbarnes"
+      },
+      {
+        "network": "Bitbucket",
+        "username": "tsbarnes",
+        "url": "https://bitbucket.org/tsbarnes/"
       }
     ]
   },
