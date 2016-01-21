@@ -1,0 +1,29 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "description": "My resume",
+  "main": "gulpfile.coffee",
+  "scripts": {
+    "test": "make validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@direct.awesomebarnes.com:scott/resume.git"
+  },
+  "author": "T. Scott Barnes <scott@awesomebarnes.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gravatar": "^1.4.0",
+    "hackmyresume": "^1.5.2",
+    "jsonresume-theme-class": "^0.1.2",
+    "jsonresume-theme-elegant": "^1.1.8",
+    "jsonresume-theme-kendall": "^0.1.11",
+    "jsonresume-theme-material": "^1.1.2",
+    "jsonresume-theme-onepage": "0.0.2",
+    "jsonresume-theme-paper": "^0.3.2",
+    "jsonresume-theme-polymer": "0.0.6",
+    "jsonresume-theme-stackoverflow": "^0.2.1",
+    "lodash": "^4.0.0",
+    "mustache": "^2.2.1"
+  }
+}
