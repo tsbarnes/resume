@@ -10,28 +10,27 @@
 			"level": "Master",
 			"keywords": [
 				"Django",
-				"Ruby on Rails",
-				"Zend Framework 2",
-				"Python",
-				"Ruby",
-				"Node.js",
-				"PHP",
-				"Java"
+        "Ruby on Rails",
+        "Zend Framework 2",
+        "REST",
+        "JSON",
+        "Python",
+        "Ruby",
+        "Node.js",
+        "PHP",
+        "Java"
 			]
 		},
 		{
       "name": "DevOps",
       "level": "Master",
       "keywords": [
-        "Configuration Management",
+				"Configuration Management",
         "Continuous Delivery/Deployment",
         "Version Control",
         "git",
-        "Bazaar",
         "GitHub",
         "Bitbucket",
-        "Issue Tracking",
-        "GitHub Issues",
         "JIRA",
         "osTicket",
         "Analytics",
@@ -65,9 +64,7 @@
 				"GNOME",
 				"Qt",
 				"Ubuntu",
-				"Client/Server Architecture",
 				"Threading",
-				"RPC",
 				"Library/API Development",
 				"Debian/Ubuntu Packages"
 			]
