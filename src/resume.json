@@ -72,6 +72,7 @@
       "summary": "Developed No-Dice.Net, a platform for roleplaying gamers (not yet completed).",
       "highlights": [
         "Co-founded the company and lead development",
+        "Managed the project and handled devops and server administration",
         "Designed and coded Django HTML templates, LESS/CSS, and JavaScript",
         "Created the backend code in Python using Django",
         "Developed RESTful APIs for the site using Django REST Framework",
@@ -83,9 +84,11 @@
       "company": "Archimedes Lever",
       "startDate": "2011-12-15",
       "endDate": "2012-10-26",
-      "summary": "Maintained the company's server and social media presence",
+      "summary": "Managed the software projects, maintained the company's server, and managed the company's social media presence",
       "highlights": [
+        "Planned and implemented version control and project management for ubookt.com",
         "Performed administration and maintenance of the server for ubookt.com",
+        "Handled all of the devops for the company",
         "Maintained the company's social media presence",
         "Selected and implemented technical decisions for the server",
         "Assisted in development of the site design and code for ubookt.com using Django"
@@ -111,19 +114,21 @@
   }],
   "skills": [
     {
-      "name": "Frontend Web Development",
+      "name": "Linux Application Development",
       "level": "Master",
       "keywords": [
-        "AngularJS",
-        "Bootstrap",
-        "Foundation",
-        "LESS",
-        "Sass/SCSS",
-        "CoffeeScript",
-        "HAML",
-        "HTML 5",
-        "CSS 3",
-        "JavaScript"
+        "C",
+        "C++",
+        "Python",
+        "GTK+",
+        "GNOME",
+        "Qt",
+        "Ubuntu",
+        "Client/Server Architecture",
+        "Threading",
+        "RPC",
+        "Library/API Development",
+        "Debian/Ubuntu Packages"
       ]
     },
     {
@@ -141,21 +146,38 @@
       ]
     },
     {
-      "name": "Linux Application Development",
+      "name": "Frontend Web Development",
       "level": "Master",
       "keywords": [
-        "C",
-        "C++",
-        "Python",
-        "GTK+",
-        "GNOME",
-        "Qt",
-        "Ubuntu",
-        "Client/Server Architecture",
-        "Threading",
-        "RPC",
-        "Library/API Development",
-        "Debian/Ubuntu Packages"
+        "AngularJS",
+        "Bootstrap",
+        "Foundation",
+        "LESS",
+        "Sass/SCSS",
+        "CoffeeScript",
+        "HAML",
+        "HTML 5",
+        "CSS 3",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "Configuration Management",
+        "Continuous Delivery/Deployment",
+        "Version Control",
+        "git",
+        "Bazaar",
+        "GitHub",
+        "Bitbucket",
+        "Issue Tracking",
+        "GitHub Issues",
+        "JIRA",
+        "osTicket",
+        "Analytics",
+        "New Relic"
       ]
     }
   ],
@@ -163,23 +185,6 @@
     "language": "English",
     "fluency": "Native speaker"
   }],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "Ubuntu",
-        "Linux",
-        "Android",
-        "Android Wear",
-        "Chrome OS",
-        "SteamOS",
-        "Raspberry Pi",
-        "ARM",
-        "IoT",
-        "Home Automation"
-      ]
-    }
-  ],
   "references": [
     {
       "name": "Patrick Wilson",

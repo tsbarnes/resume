@@ -1,0 +1,76 @@
+{
+	"basics": {
+		"summary": "I'm an experienced professional and open-source developer. I have created and still maintain a number of semi-widely used open source projects; including applications like indicator-keylock (which is now included in Ubuntu Linux) and backend web packages like django-bootstrap-themes (used internally by Facebook, among others). I also handle devops and server management for my own company and clients.",
+		"location": {},
+		"profiles": []
+	},
+	"skills": [
+		{
+			"name": "Frontend Web Development",
+			"level": "Master",
+			"keywords": [
+				"AngularJS",
+				"Bootstrap",
+				"Foundation",
+				"LESS",
+				"Sass/SCSS",
+				"CoffeeScript",
+				"HAML",
+				"HTML 5",
+				"CSS 3",
+				"JavaScript"
+			]
+		},
+		{
+			"name": "Backend Web Development",
+			"level": "Master",
+			"keywords": [
+				"Django",
+				"Ruby on Rails",
+				"Zend Framework 2",
+				"Python",
+				"Ruby",
+				"Node.js",
+				"PHP",
+				"Java"
+			]
+		},
+		{
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "Configuration Management",
+        "Continuous Delivery/Deployment",
+        "Version Control",
+        "git",
+        "Bazaar",
+        "GitHub",
+        "Bitbucket",
+        "Issue Tracking",
+        "GitHub Issues",
+        "JIRA",
+        "osTicket",
+        "Analytics",
+        "New Relic"
+      ]
+    },
+		{
+			"name": "Linux Application Development",
+			"level": "Master",
+			"keywords": [
+				"C",
+				"C++",
+				"Python",
+				"GTK+",
+				"GNOME",
+				"Qt",
+				"Ubuntu",
+				"Client/Server Architecture",
+				"Threading",
+				"RPC",
+				"Library/API Development",
+				"Debian/Ubuntu Packages"
+			]
+		}
+	]
+}
