@@ -13,13 +13,15 @@ devops_SOURCE    = $(resume_SOURCE) devops.json
 backend_SOURCE   = $(resume_SOURCE) backend.json
 frontend_SOURCE  = $(resume_SOURCE) frontend.json
 
-all: build publish
+all: build
 
 build: $(TARGETS)
 
 .SECONDEXPANSION:
 $(TARGETS): $$($$@_SOURCE)
 	hackmyresume BUILD $^ TO ../build/$@.all -t ../node_modules/jsonresume-theme-$($@_THEME)
+	hackmyresume BUILD $^ TO ../build/$@.doc -t positive
+	hackmyresume BUILD $^ TO ../build/$@.txt -t positive
 
 publish: resume.json
 	resume publish -t $(PUBLISH_THEME)
