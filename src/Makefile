@@ -1,5 +1,5 @@
-PUBLISH_THEME   := elegant
-resume_THEME    := elegant
+PUBLISH_THEME   := stackoverflow
+resume_THEME    := stackoverflow
 fullstack_THEME := paper
 devops_THEME    := stackoverflow
 backend_THEME   := class
