@@ -169,6 +169,22 @@
   "work": [
     {
       "highlights": [
+        "Administrated and managed websites",
+        "Managed and made technical decisions for company websites",
+        "Created and maintained WordPress plugins",
+        "Modified and improved WordPress themes",
+        "Handled communicating technical details to non-technical staff",
+        "Kept site uptime high"
+      ],
+      "summary": "Administrating and managing WordPress sites",
+      "startDate": "2017-10-11",
+      "endDate": "2018-09-07",
+      "website": "https://apracticalwedding.com/",
+      "position": "Web Mistress",
+      "company": "Practical Media, Inc."
+    },
+    {
+      "highlights": [
         "Became one of the top Google Chrome extension developers on Elance",
         "Developed Google Chrome Native Client applications in C++",
         "Created modular, scalable backend code for e-commerce sites and web apps using Django, Ruby on Rails, and Zend Framework 2",
