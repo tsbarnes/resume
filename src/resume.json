@@ -26,14 +26,34 @@
         "network": "Facebook"
       },
       {
+        "url": "https://twitter.com/theasbarnes",
+        "username": "TheaSBarnes",
+        "network": "Twitter"
+      },
+      {
         "url": "https://github.com/tsbarnes",
         "username": "tsbarnes",
         "network": "GitHub"
       },
       {
+        "url": "https://gitlab.com/tsbarnes",
+        "username": "tsbarnes",
+        "network": "GitLab"
+      },
+      {
         "url": "https://bitbucket.org/tsbarnes/",
         "username": "tsbarnes",
         "network": "Bitbucket"
+      },
+      {
+        "url": "https://tsbarnes.itch.io",
+        "username": "tsbarnes",
+        "network": "Itch.io"
+      },
+      {
+        "url": "https://medium.com/@TheaSBarnes",
+        "username": "TheaSBarnes",
+        "network": "Medium"
       }
     ]
   },
@@ -165,7 +185,19 @@
       "name": "DevOps"
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "highlights": [
+        "Managing and moderating social media profiles and groups",
+        "Managing members and contact info for leaders"
+      ],
+      "summary": "Handling social media accounts and communicating with members and other leaders",
+      "startDate": "2018-10-05",
+      "website": "http://jrts.org/",
+      "position": "Social Media Leader",
+      "organization": "James River Transgender Society"
+    }
+  ],
   "work": [
     {
       "highlights": [
