@@ -86,8 +86,13 @@
       "position": "Developer",
       "website": "https://fuelist.com/",
       "startDate": "2020-02-24",
-      "summary": "Ruby on Rails developer for an ecommerce website",
-      "highlights": []
+      "summary": "Full stack developer for an ecommerce website",
+      "highlights": [
+        "Worked with Ruby on Rails",
+        "Designed and implemented complex data structures",
+        "Wrote detailed documentation for other developers"
+      ],
+      "endDate": "2020-08-31"
     },
     {
       "company": "Practical Media, Inc.",
@@ -139,7 +144,7 @@
     {
       "company": "No Dice, LLC",
       "position": "President / Owner",
-      "website": null,
+      "website": "http://no-dice.net",
       "startDate": "2012-10-06",
       "summary": "Developed No-Dice, a platform for roleplaying gamers.",
       "highlights": [
@@ -155,7 +160,7 @@
     {
       "company": "Archimedes Lever",
       "position": "Chief Technology Officer",
-      "website": null,
+      "website": "http://ubookt.com/",
       "startDate": "2011-12-15",
       "summary": "Managed the software projects, maintained the company's server, and managed the company's social media presence",
       "highlights": [
@@ -209,15 +214,15 @@
       "level": "Master",
       "keywords": [
         "Django",
-        "Ruby on Rails, Rails 3, Rails 4",
-        "Zend Framework 2, ZF2",
+        "Ruby on Rails",
+        "Zend Framework",
         "REST APIs",
         "JSON",
         "Python",
         "Ruby",
         "Node.js",
         "PHP",
-        "Doctrine ORM, doctrine-orm",
+        "Doctrine ORM",
         "PostgreSQL",
         "MySQL"
       ]
@@ -226,16 +231,18 @@
       "name": "Frontend Web Development",
       "level": "Master",
       "keywords": [
-        "AngularJS, Angular 2/4",
+        "Angular",
         "Twitter Bootstrap",
         "Zurb Foundation",
         "LESS",
-        "Sass/SCSS",
+        "Sass",
+        "SCSS",
         "CoffeeScript",
         "HAML",
-        "HTML 5",
-        "CSS 3",
-        "JavaScript, jQuery"
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery"
       ]
     },
     {
@@ -258,7 +265,7 @@
   "references": [
     {
       "name": "Patrick Wilson",
-      "reference": "[Thea] is an all-star developer. I hired [Thea] to help me get a startup product out of dev, and into the hands of customers. [She] jumped in feet first and turned our ideas into reality. [She] is proactive with [her] architectural design and has been consistently delivering high quality code and solutions to our live servers. I will continue to hire [Thea] for our projects, because I know that I can count on [her] to solve the problems, improve the outcome and deliver the product. [Thea] \"gets it\". And that's important when you're trying to explain complex plans and ideas. Once [she] \"gets it\"... [she's] on the run turning your plans and ideas into reality. I'm truly impressed, daily. [Thea] is going to have a stellar career, I'm happy to be a part of it. Great job [Thea], I can't say that enough."
+      "reference": "Thea is an all-star developer. I hired Thea to help me get a startup product out of dev, and into the hands of customers. She jumped in feet first and turned our ideas into reality. She is proactive with her architectural design and has been consistently delivering high quality code and solutions to our live servers. I will continue to hire Thea for our projects, because I know that I can count on her to solve the problems, improve the outcome and deliver the product. Thea \"gets it\". And that's important when you're trying to explain complex plans and ideas. Once she \"gets it\"... she's on the run turning your plans and ideas into reality. I'm truly impressed, daily. Thea is going to have a stellar career, I'm happy to be a part of it. Great job Thea, I can't say that enough."
     },
     {
       "name": "Jenny Barnes",
