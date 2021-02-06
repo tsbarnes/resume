@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@direct.awesomebarnes.com:scott/resume.git"
+    "url": "git@github.com:tsbarnes/resume.git"
   },
-  "author": "T. Scott Barnes <scott@awesomebarnes.com>",
+  "author": "Thea Barnes <thea@tsbarnes.com>",
   "license": "ISC",
   "dependencies": {
     "gravatar": ">=1.4.0",
-    "hackmyresume": ">=1.5.2",
+    "hackmyresume": "^1.8.0",
     "jsonresume-theme-class": ">=0.1.2",
-    "jsonresume-theme-elegant": ">=1.1.8",
-    "jsonresume-theme-kendall": ">=0.1.11",
+    "jsonresume-theme-elegant": "^1.14.0",
+    "jsonresume-theme-kendall": "^0.2.0",
     "jsonresume-theme-material": ">=1.1.2",
     "jsonresume-theme-onepage": ">=0.0.2",
     "jsonresume-theme-paper": ">=0.3.2",
