@@ -78,6 +78,15 @@
         "Web Design II"
       ],
       "endDate": "2014-12-14"
+    },
+    {
+      "institution": "The Linux Foundation",
+      "area": "Web Development",
+      "studyType": "Other",
+      "startDate": "2021-07-25",
+      "courses": [
+        "Node.js Application Development - LFW211"
+      ]
     }
   ],
   "work": [
