@@ -20,10 +20,10 @@
     "jsonresume-theme-kendall": "^0.2.0",
     "jsonresume-theme-material": ">=1.1.2",
     "jsonresume-theme-onepage": ">=0.0.2",
-    "jsonresume-theme-paper": ">=0.3.2",
+    "jsonresume-theme-paper": "^0.5.0",
     "jsonresume-theme-polymer": ">=0.0.6",
     "jsonresume-theme-stackoverflow": ">=0.2.1",
-    "lodash": ">=4.17.19",
+    "lodash": "^4.17.21",
     "mustache": ">=2.2.1"
   }
 }
